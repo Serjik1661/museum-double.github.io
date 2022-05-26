@@ -1,0 +1,173 @@
+.logo{
+    float: left;
+       
+}
+body {
+    font-family: Arial, sans-serif; 
+
+    
+
+}
+main{
+         
+    
+}
+
+header {
+    height: 70px;
+}
+
+
+
+.container{
+    width: 1000px;
+    margin: 0 auto;
+    
+}
+nav{
+    float: right;
+    margin-top: 20px;
+    
+}
+
+.menu{
+    padding: 0;
+    margin: 0;
+    display: block;
+}
+
+.menu li {
+    float: left;
+    display: block;
+    margin-right: 30px;
+    
+}
+
+.menu a {
+    color: dodgerblue;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 12px;
+    color: #013166;
+    font-family: OpenSans, Medium;
+}
+
+.title-logo{
+    margin-top: 10px;
+    display: block;
+    height: 40px;
+    width: 130px;
+    float: left;
+    font-size: 16px;
+    padding-left: 10px;
+    text-transform: uppercase;
+    color: #013166;
+    font-family: Verdana, sans-serif;
+    
+    
+
+    
+    
+}
+.resurs3{
+    padding-left: 5px;
+    padding-bottom: 2px;
+}
+.menu .buttom{
+    color: white;
+    
+    font-size: 13px;
+    
+    
+    padding: 10 50 7 50;
+
+    text-align: center;
+    background-color: #ffa500;
+    color: #fff5ff;
+    
+    border-radius: 20px
+    
+}
+
+.vibor{
+    width: 1000px;
+    padding-top: 90px;
+    
+    height: 500px;
+    
+}
+
+
+.alice{
+    
+    
+    width: 240px;
+    
+    
+    
+    float: left;
+    text-align: center;
+    
+}
+
+.alice h2{
+    font-size: 30px;
+    margin-bottom: 5px;
+    font-family: OpenSans, ExtraBold; 
+    
+    
+}
+
+.alice p{
+    color: #77777;
+    font-size: 17px;
+    padding-bottom: 15px;
+    font-family: OpenSans, Medium;
+    
+    
+}
+
+
+
+.oksana{
+    width: 250px;
+    float: right;
+    text-align: center;
+    
+}
+
+.oksana h2{
+    font-size: 30px;
+    margin-bottom: 5px;
+    font-family: OpenSans, ExtraBold; 
+    
+}
+
+.oksana p{
+    color: #77777;
+    font-size: 17px;
+    font-family: OpenSans, Medium;
+    
+    
+}
+
+
+
+.blu{
+    color: #003f82;
+    
+}
+
+.orange{
+    color: #ff9f43;
+    
+}
+
+.container-2{
+    width: 1000px;
+    margin: 0 auto;
+    background: no-repeat center/ 160% url("/assets/images/Resurs_7.png");
+    height: 590px;
+}
+
+
